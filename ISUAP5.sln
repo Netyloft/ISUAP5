@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISUAP5", "ISUAP5\ISUAP5.csproj", "{34783326-9D08-4CA5-9CC1-9F03755F353C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34783326-9D08-4CA5-9CC1-9F03755F353C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34783326-9D08-4CA5-9CC1-9F03755F353C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34783326-9D08-4CA5-9CC1-9F03755F353C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34783326-9D08-4CA5-9CC1-9F03755F353C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1E6827B-2B6D-4317-A997-46E4872438DA}
+	EndGlobalSection
+EndGlobal
